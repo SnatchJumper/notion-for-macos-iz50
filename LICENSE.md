@@ -1,4 +1,4 @@
-#  
+#  automatic Notion for macOS Utility | markdown support + multi-device sync is the best Notion for macOS utility, featuring markdown support and multi-device sync. Safe, efficient,
 
 
 
